@@ -1,0 +1,23 @@
+path: /home/sail/pjt/real_data
+train: ./images/train
+test: ./images/test
+val: ./images/val
+
+names:
+    0: Accident
+    1: Explosion
+    2: Knife
+    3: Theft
+    4: Violence
+    5: Fight
+    6: Guns
+    7: deded
+    8: wffwwe
+    9: fwwwcewce
+    10: fvsvdvv
+    11: wfvsvdvdfv
+    12: dcqer
+    13:  r23grds
+    14: 32323ss
+    15: ddsds
+    16: Weapon
